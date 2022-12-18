@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/404.html</loc>
+    </url>
+    <url>
+        <loc>/alert.html</loc>
+    </url>
+    <url>
+        <loc>/contact.html</loc>
+    </url>
+    <url>
+        <loc>/example1.html</loc>
+    </url>
+    <url>
+        <loc>/forgot-password.html</loc>
+    </url>
+    <url>
+        <loc>/friend.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/loading.html</loc>
+    </url>
+    <url>
+        <loc>/login.html</loc>
+    </url>
+    <url>
+        <loc>/login success.html</loc>
+    </url>
+    <url>
+        <loc>/order.html</loc>
+    </url>
+    <url>
+        <loc>/pay_order.html</loc>
+    </url>
+    <url>
+        <loc>/product.html</loc>
+    </url>
+    <url>
+        <loc>/product-1.html</loc>
+    </url>
+    <url>
+        <loc>/product-2.html</loc>
+    </url>
+    <url>
+        <loc>/product-3.html</loc>
+    </url>
+    <url>
+        <loc>/profile.html</loc>
+    </url>
+    <url>
+        <loc>/register.html</loc>
+    </url>
+    <url>
+        <loc>/shopping_card.html</loc>
+    </url>
+    <url>
+        <loc>/vip price.html</loc>
+    </url>
+</urlset>
