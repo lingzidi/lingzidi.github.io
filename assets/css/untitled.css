@@ -1,0 +1,21 @@
+.left-right strong, .left-right a, .left-right {
+  position: relative;
+  text-decoration: none;
+}
+
+.left-right strong::after, .left-right a::after, .left-right ::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 4px;
+  background-color: rgb(125, 143, 179);
+  position: absolute;
+  right: 0;
+  transition: .4s;
+}
+
+.left-right strong:hover::after, .left-right a:hover::after, .left-right :hover::after {
+  width: 100%;
+  left: 0;
+}
+

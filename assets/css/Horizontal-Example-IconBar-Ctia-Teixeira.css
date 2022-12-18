@@ -1,0 +1,25 @@
+.ct-icon-bar-2 {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+  z-index: 999;
+}
+
+.ct-icon-bar-2 a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.ct-icon-bar-2 a:hover {
+  background-color: #000;
+}
+
+.ct-active-2 {
+  background-color: #04AA6D;
+}
+
