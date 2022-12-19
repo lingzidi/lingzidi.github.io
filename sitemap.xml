@@ -4,6 +4,9 @@
         <loc>/404.html</loc>
     </url>
     <url>
+        <loc>/405.html</loc>
+    </url>
+    <url>
         <loc>/alert.html</loc>
     </url>
     <url>
@@ -55,7 +58,7 @@
         <loc>/register.html</loc>
     </url>
     <url>
-        <loc>/shopping_card.html</loc>
+        <loc>/shopping_cart.html</loc>
     </url>
     <url>
         <loc>/vip price.html</loc>
